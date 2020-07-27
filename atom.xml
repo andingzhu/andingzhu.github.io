@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="alexanderzhu.xyz/"/>
-  <updated>2020-07-27T01:46:21.399Z</updated>
+  <updated>2020-07-27T13:14:48.059Z</updated>
   <id>alexanderzhu.xyz/</id>
   
   <author>
@@ -17,17 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="alexanderzhu.xyz/2020/07/27/hello-world/"/>
-    <id>alexanderzhu.xyz/2020/07/27/hello-world/</id>
-    <published>2020-07-27T01:21:29.471Z</published>
-    <updated>2020-07-27T01:46:21.399Z</updated>
+    <title>about me</title>
+    <link href="alexanderzhu.xyz/2020/07/27/about-me/"/>
+    <id>alexanderzhu.xyz/2020/07/27/about-me/</id>
+    <published>2020-07-27T13:14:45.409Z</published>
+    <updated>2020-07-27T13:14:48.059Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;Welcome to Alex’s blog! &lt;/p&gt;
+&lt;p&gt;​        I am a novice in programming who fond of Python, analysis of data and loved a person. &lt;/p&gt;
+
       
     
     </summary>
